@@ -24,6 +24,6 @@ Preview
 ----------------
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ShyBlueMoon/Jokempo-Em-Kotlin/master/screen_recording_jokempo_kotlin.gif" alt="Gif showing how the app works." width="250"/>
+<img src=https://raw.githubusercontent.com/ShyBlueMoon/DateTrivia/master/Screen_recording_20240625_150925.gif" alt="Gif showing how the app works." width="250"/>
 
 ![Static Badge](https://img.shields.io/badge/made_with_love_by-Luana-purple?style=for-the-badge)
